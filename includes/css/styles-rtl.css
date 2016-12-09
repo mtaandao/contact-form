@@ -1,0 +1,13 @@
+span.mncf7-not-valid-tip {
+	direction: rtl;
+}
+
+.use-floating-validation-tip span.mncf7-not-valid-tip { 
+	left: auto;
+	right: 20%;
+}
+
+span.mncf7-list-item {
+	margin-left: 0;
+	margin-right: 0.5em;
+}
